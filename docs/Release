@@ -1,11 +1,11 @@
-Origin: dilliosdev
-Label: dilliosdev
+Origin: Dillios Repo
+Label: Dillios Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Make iOS Great Again.
+Description: Make iOS Great Again
 
 SHA256:
  8360e402681c0eb89303b37aeac640b007680b1a4c6717ff978d9bab1c8dadd0 748 Packages.bz2

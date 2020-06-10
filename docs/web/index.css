@@ -40,6 +40,21 @@ h1, h2, h3, h4, h5, h6, p {
 
 .header {
     margin-top: 40px;
+    margin-bottom: 2px;
+}
+
+.header2 {
+  display: block;
+  width: 100%;
+  font-size: 17px;
+  font-weight: 600;
+  font-style: italic;
+  margin-top: 0px;
+  margin-bottom: 25px;
+}
+
+.header3 {
+    margin-top: 40px;
     margin-bottom: 25px;
 }
 
@@ -82,7 +97,7 @@ h1, h2, h3, h4, h5, h6, p {
     left: 15px;
     font-size: 25px;
     position: absolute;
-    text-shadow: 0 0 10px rgba(0,0,0,0.8); 
+    text-shadow: 0 0 10px rgba(0,0,0,0.8);
 }
 
 .center {
@@ -93,7 +108,7 @@ h1, h2, h3, h4, h5, h6, p {
     float: left;
 }
 
-.right_float { 
+.right_float {
     float: right;
 }
 
