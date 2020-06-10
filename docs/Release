@@ -1,0 +1,12 @@
+Origin: dilliosdev
+Label: dilliosdev
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Make iOS Great Again.
+
+SHA256:
+ 8360e402681c0eb89303b37aeac640b007680b1a4c6717ff978d9bab1c8dadd0 748 Packages.bz2
+ b3cb0e33ad9142ae61e66085315d8b2382411385e37bbe3f49227c8ec550f2c1 704 Packages.xz
